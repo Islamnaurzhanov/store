@@ -1,19 +1,105 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.info-text p{
-width: 1280px;
-height: 54px;
-background: rgba(25, 103, 210, 1);
-color: rgba(255, 255, 255, 1);
-font-family: Roboto;
-font-size: 16px;
-font-weight: 400;
-line-height: 16px;
-letter-spacing: 0%;
-text-align: center;
-padding-top: 17px;
+.info-text p {
+  width: 1280px;
+  height: 54px;
+  background: rgba(25, 103, 210, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0%;
+  text-align: center;
+  padding-top: 17px;
+}
+.main-div-sec_sec {
+  background-image: url(../img/img-gadgets\(1\).png);
+
+  width: 1280px;
+  height: 600px;
+}
+
+.text_info h1 {
+  width: 316px;
+  height: 136px;
+  color: rgba(60, 64, 67, 1);
+
+  font-family: Roboto;
+  font-size: 57px;
+  font-weight: 400;
+  line-height: 68px;
+  letter-spacing: 2px;
+  text-align: left;
+  margin-top: px;
+  margin-left: 130px;
+}
+.text_info p {
+  color: rgba(60, 64, 67, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.p-second {
+  color: rgba(60, 64, 67, 1);
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.button-text {
+  display: flex;
+}
+.button-text button {
+  background-color: transparent;
+  box-sizing: border-box;
+  border: 2px solid rgba(60, 64, 67, 1);
+  border-radius: 4px;
+  width: 143px;
+  height: 40px;
+  color: rgba(60, 64, 67, 1);
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-left: 130px;
+  margin-top: 22px;
+  
+
+}
+.button-text p {
+  color: rgba(60, 64, 67, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 26px;
+}
+
+.big_text {
+  color: rgba(60, 64, 67, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-left: 130px;
+  margin-top: 22px;
 }
