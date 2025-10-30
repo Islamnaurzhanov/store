@@ -106,3 +106,45 @@
   margin-left: 130px;
   margin-top: 22px;
 }
+
+.icon-google {
+  width: 20.7px;
+  height: 32.6px;
+  transform: rotate(-0.53deg);
+  margin-top: 7.53px;
+}
+
+header {
+  display: flex;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.header-nav li {
+  color: rgba(60, 64, 67, 1);
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  margin-left: 20px;
+  margin-top: 21px;
+}
+.icon-nav {
+  display: flex;
+  margin-left: 26.87px;
+}
+.div-icons {
+  margin-left: 384px;
+}
+.icons {
+  margin-top: 16px;
+  margin-right: 16px;
+  width: 24px;
+  height: 24px;
+}
+
+
