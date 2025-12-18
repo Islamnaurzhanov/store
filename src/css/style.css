@@ -243,7 +243,6 @@ hr {
   font-weight: 400;
   line-height: 40px;
   letter-spacing: 0.5px;
- 
 }
 
 .text-p {
@@ -272,62 +271,59 @@ hr {
   padding-top: 194px;
   padding-left: 117px;
 }
-.nba-sec{
+.nba-sec {
   border-radius: 30px;
 }
-
-.three-divs{
+.three-divs {
   display: flex;
-
+  margin-top: 80px;
 }
 
-.div-cards{
- 
-width: 395px;
-height: 692px;
-border-radius: 28px;
-background: rgba(233, 227, 219, 1);
-justify-content: center;
-margin-left: 24px;
+.div-cards {
+  width: 395px;
+  height: 692px;
+  border-radius: 28px;
+  background: rgba(233, 227, 219, 1);
+  justify-content: center;
+  margin-left: 24px;
 }
-.name-product{
+.name-product {
   color: rgba(60, 64, 67, 1);
 
-font-family: Roboto;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.1px;
-text-align: center;
-margin-top: 20px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  text-align: center;
+  margin-top: 20px;
 }
 
-.info-h2{
+.info-h2 {
   color: rgba(60, 64, 67, 1);
 
-font-family: Roboto;
-font-size: 40px;
-font-weight: 400;
-line-height: 48px;
-letter-spacing: 0.5px;
-text-align: center;
-margin-top: 15px;
-margin-bottom: 25px;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 48px;
+  letter-spacing: 0.5px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 25px;
 }
-.button-in-tree-divs{
- 
-color: rgba(32, 33, 36, 1);
-font-family: Roboto;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
-box-sizing: border-box;
-border: 2px solid rgba(95, 99, 104, 1);
-border-radius: 4px;
-width: 123px;
-height: 24px;
-margin-left: 135px;
-margin-bottom: 28px;
+.button-in-tree-divs {
+  color: rgba(32, 33, 36, 1);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  box-sizing: border-box;
+  border: 2px solid rgba(95, 99, 104, 1);
+  border-radius: 4px;
+  width: 123px;
+  height: 24px;
+  margin-left: 135px;
+  margin-bottom: 28px;
 }
